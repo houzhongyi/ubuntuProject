@@ -39,22 +39,22 @@
                   fixed
                   prop="icon"
                   label="奖品图标"
-                  width="150">
+                  width="300">
                 </el-table-column>
                 <el-table-column
                   prop="name"
                   label="奖品名称"
-                  width="120">
+                  width="300">
                 </el-table-column>
                 <el-table-column
                   prop="count"
                   label="库存"
-                  width="120">
+                  width="300">
                 </el-table-column>
                 <el-table-column
                   prop="type"
                   label="奖品类型"
-                  width="120">
+                  width="300">
                 </el-table-column>
                 <el-table-column
                   fixed="right"
